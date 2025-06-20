@@ -37,20 +37,42 @@ A list of **software & data internships** in the United Kingdom that are **open 
 ---
 
 ## Interview Practice
-Acing the technical interview is only half the battle. Use these questions to prepare for the behavioural rounds where recruiters assess your communication, teamwork, and problem-solving skills.
+Acing the technical rounds is only half the battle. Use the resources below to prepare for the behavioural interviews where recruiters assess your communication, teamwork, and problem-solving skills.
 
-#### 🗣️ Common Behavioural Questions (Practice on [Auralyze.ai](https://auralyze.ai))
-Recruiters are looking for structured answers using the **STAR method** (Situation, Task, Action, Result). Get instant feedback on your delivery with Auralyze.
-*   "Tell me about a time you had to work with a difficult team member."
-*   "Describe a complex project you worked on. What was your role?"
-*   "Give an example of a time you failed. What did you learn?"
-*   "Walk me through a situation where you had to make a decision with incomplete information."
-*   "Tell me about your proudest achievement."
+### 🗣️ Common Behavioural Questions
+The key to answering these is to have a few versatile stories about your projects and experiences ready to go. You can adapt them to fit the specific question. The goal is to demonstrate your thought process, ownership, and impact.
 
-#### 💻 Common Technical Topics (Practice on LeetCode)
-*   **Data Structures:** Arrays, Strings, Linked Lists, Trees, Graphs, Hash Maps, Heaps
-*   **Algorithms:** Sorting, Searching (Binary Search), Recursion, Dynamic Programming
-*   **Concepts:** Big O Notation, System Design, Database Fundamentals (SQL)
+*   "Tell me about a time you had to work with a difficult team member or stakeholder."
+*   "Describe a complex technical project you worked on. What was your specific role and contribution?"
+*   "Give an example of a time you faced a major setback or failure. What did you learn from it?"
+*   "Walk me through a situation where you had to make a critical decision with incomplete information."
+*   "Describe a time you took initiative or went beyond the requirements of a project."
+*   "How do you handle constructive criticism or feedback on your work?"
+*   "Tell me about your proudest technical achievement."
+
+> **👉 Practice your answers and get instant, AI-powered feedback on your structure, delivery, and clarity with [Auralyze.ai](https://auralyze.ai).**
+
+### 💡 Pro-Tips for Behavioural Interviews
+1.  **Use the STAR Method**: Structure your answers clearly. It's the industry-standard for a reason.
+    *   **S - Situation**: Briefly set the scene and provide context. (e.g., "In my previous internship, our team was tasked with...")
+    *   **T - Task**: Describe your specific responsibility or the goal. (e.g., "...and I was responsible for developing the new authentication service.")
+    *   **A - Action**: Detail the steps *you* took. Focus on your individual contribution. Use "I" instead of "we." (e.g., "I designed the API endpoints, wrote the integration tests, and...")
+    *   **R - Result**: Explain the outcome. Quantify it if possible. (e.g., "As a result, we reduced login errors by 15% and the feature shipped on time.")
+2.  **Focus on "I", not "We"**: Interviewers need to know what *you* did. It's great that your team succeeded, but they are hiring you, not your team.
+3.  **Be Specific**: Avoid vague statements. Instead of "I worked on the backend," say "I implemented the caching layer using Redis to decrease database load."
+
+### 📚 Recommended Resources
+
+*   **Books**:
+    *   [**Cracking the Coding Interview**](https://www.amazon.co.uk/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/) by Gayle Laakmann McDowell: The essential guide for technical questions.
+*   **Articles from the Auralyze Blog**:
+    *   [**How to Beat HireVue Interviews**](https://www.auralyze.ai/blog/post/why-hirevue-interviews-are-brutal-and-how-to-actually-beat-them): Crucial tips for acing asynchronous video interviews.
+    *   [**Mastering Tech Interviews**](https://www.auralyze.ai/blog/post/mastering-tech-interviews-your-guide-to-landing-top-software-engineering-roles): A general guide to the entire tech interview process.
+    *   [**The Psychology of FAANG Interviews**](https://www.auralyze.ai/blog/post/the-hidden-psychology-behind-faang-interviews-and-why-most-engineers-fail-despite-being-brilliant): Understand what top-tier interviewers are really looking for.
+*   **Other Articles**:
+    *   [**Mastering the Behavioral Interview**](https://thebehavioral.substack.com/p/using-the-carl-method-to-structure): An excellent, in-depth guide on structuring your answers using the STAR/CARL method.
+*   **Technical Practice**:
+    *   [**LeetCode**](https://leetcode.com/): The go-to platform for practicing coding problems. Focus on company-specific question lists if you have a target.
 
 ---
 

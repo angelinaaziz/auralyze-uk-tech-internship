@@ -29,10 +29,28 @@ A list of **software & data internships** in the United Kingdom that are **open 
 |---------|-----------|----------|----------|-------|
 | Cambridge Consultants | AI Internship (PhD or MSc Level) | Cambridge | Rolling | [Apply](https://boards.greenhouse.io/cambridgeconsultantslimited/jobs/4566595101) |
 | ESA | Spaceship ECSAT Team Internship | Harwell | 11th Jul 2025 | [Apply](https://jobs.esa.int/job/Harwell-Intern-in-the-Spaceship-ECSAT-team/1213414301/) |
-| Goldman Sachs | Summer Analyst Programme | London | Rolling | [Apply](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst-programme.html) |
+| Goldman Sachs | Summer Analyst Programme | London | Rolling | [Apply](https://www.goldmansachs.com/careers/students/programs-and-internships) |
 | HP | Computer Security Research Internship | Bristol | Rolling | [Apply](https://jobs.hp.com/jobdetails/16794696/computer-security-research-internship-bristol-2025-bristol/) |
 | Rebellion | Technical Animation Internship | Oxford | Rolling | [Apply](https://jobs.rebellion.co.uk/postings/1983/technical-animation-internship-2025) |
 | TPP | Software Developer Summer Internship | Leeds | Rolling | [Apply](https://www.tpp.com/careers/roles/software-developer-internship/) |
+
+---
+
+## Interview Practice
+Acing the technical interview is only half the battle. Use these questions to prepare for the behavioural rounds where recruiters assess your communication, teamwork, and problem-solving skills.
+
+#### 🗣️ Common Behavioural Questions (Practice on [Auralyze.ai](https://auralyze.ai))
+Recruiters are looking for structured answers using the **STAR method** (Situation, Task, Action, Result). Get instant feedback on your delivery with Auralyze.
+*   "Tell me about a time you had to work with a difficult team member."
+*   "Describe a complex project you worked on. What was your role?"
+*   "Give an example of a time you failed. What did you learn?"
+*   "Walk me through a situation where you had to make a decision with incomplete information."
+*   "Tell me about your proudest achievement."
+
+#### 💻 Common Technical Topics (Practice on LeetCode)
+*   **Data Structures:** Arrays, Strings, Linked Lists, Trees, Graphs, Hash Maps, Heaps
+*   **Algorithms:** Sorting, Searching (Binary Search), Recursion, Dynamic Programming
+*   **Concepts:** Big O Notation, System Design, Database Fundamentals (SQL)
 
 ---
 
@@ -50,7 +68,6 @@ A list of **software & data internships** in the United Kingdom that are **open 
 | Google | Software Engineering Internship | London | Nov 2025 (TBC) | [Careers](https://careers.google.com/students/) |
 | Google | Google DeepMind Research Internship | London | Dec 2025 (TBC) | [Careers](https://deepmind.google/careers/) |
 | OpenAI | Global Affairs Summer Internship | London | Mar 2026 (TBC) | [Careers](https://openai.com/careers/) |
-| Anthropic | No internships offered | N/A | N/A | [Careers](https://www.anthropic.com/careers) |
 | Accenture | Technology Internship 2026 | London, Manchester | Rolling | [Careers](https://www.accenture.com/gb-en/careers/graduates) |
 | Capgemini | Technology Consulting Internship | London, Manchester | Rolling | [Careers](https://www.capgemini.com/gb-en/careers/graduates/) |
 | Cisco | Software Engineer Graduate Programme | London, Reading | Rolling | [Careers](https://jobs.cisco.com/jobs/SearchJobs/graduate%20uk) |
@@ -67,8 +84,6 @@ Spotted a new internship?  Open a PR or submit via Issues.
 
 1. Add a new row in the same format as above.
 3. Link must go directly to the company's official application portal.
-
----
 
 ---
 

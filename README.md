@@ -66,7 +66,6 @@ A list of **software & data internships** in the United Kingdom that are **open 
 Spotted a new internship?  Open a PR or submit via Issues.
 
 1. Add a new row in the same format as above.
-2. Keep rows alphabetically sorted by **Company**.
 3. Link must go directly to the company's official application portal.
 
 ---

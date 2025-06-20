@@ -4,8 +4,9 @@ A list of **software & data internships** in the United Kingdom that are **open 
 
 > 🙋 First time here?  
 🚀  **Land more offers with [Auralyze.ai](https://auralyze.ai)** – record a mock interview and get feedback on structure, delivery **and** eye-contact in under 60 seconds.  
+📄  **Plus:** Free CV/resume checker to optimize your applications before you hit submit.
   
-🔥 **Free to start:** 5 practice sessions, filler-word & pace analysis, eye-tracking report.  
+🔥 **Free to start:** 5 practice sessions, CV analysis, filler-word & pace analysis, eye-tracking report.  
 ⭐ **Upgrade any time:** Unlimited questions, custom prompts, STAR-score tracker & job-application Kanban (just £30/mo).  
   
 ⏱️ Spend 10 minutes practising today – walk into assessments with confidence tomorrow.  
@@ -40,26 +41,44 @@ A list of **software & data internships** in the United Kingdom that are **open 
 Acing the technical rounds is only half the battle. Use the resources below to prepare for the behavioural interviews where recruiters assess your communication, teamwork, and problem-solving skills.
 
 ### 🗣️ Common Behavioural Questions
-The key to answering these is to have a few versatile stories about your projects and experiences ready to go. You can adapt them to fit the specific question. The goal is to demonstrate your thought process, ownership, and impact.
+The key to answering these is to have a few versatile stories about your university projects, coursework, part-time work, and experiences ready to go. You can adapt them to fit the specific question. The goal is to demonstrate your thought process, ownership, and potential.
 
-*   "Tell me about a time you had to work with a difficult team member or stakeholder."
-*   "Describe a complex technical project you worked on. What was your specific role and contribution?"
-*   "Give an example of a time you faced a major setback or failure. What did you learn from it?"
-*   "Walk me through a situation where you had to make a critical decision with incomplete information."
-*   "Describe a time you took initiative or went beyond the requirements of a project."
-*   "How do you handle constructive criticism or feedback on your work?"
-*   "Tell me about your proudest technical achievement."
+*   "Tell me about a challenging group project you worked on. How did you handle any difficulties?"
+*   "Describe a technical project you're proud of. What was your specific contribution?"
+*   "Give an example of a time something didn't go as planned in a project or assignment. How did you handle it?"
+*   "Tell me about a time you had to learn something new quickly for a project or coursework."
+*   "Describe a situation where you took initiative beyond what was required."
+*   "How do you handle feedback from professors, peers, or supervisors?"
+*   "What's your biggest accomplishment so far, technical or otherwise?"
+*   "Tell me about a time you disagreed with a teammate or had a conflict in a group setting."
+*   "Describe a project where the requirements weren't clear initially. How did you move forward?"
+*   "Give an example of when you helped a classmate or colleague understand something."
+*   "Tell me about a time you had to balance multiple deadlines or priorities."
+*   "Why are you interested in this company/role specifically?"
 
 > **👉 Practice your answers and get instant, AI-powered feedback on your structure, delivery, and clarity with [Auralyze.ai](https://auralyze.ai).**
 
 ### 💡 Pro-Tips for Behavioural Interviews
 1.  **Use the STAR Method**: Structure your answers clearly. It's the industry-standard for a reason.
-    *   **S - Situation**: Briefly set the scene and provide context. (e.g., "In my previous internship, our team was tasked with...")
-    *   **T - Task**: Describe your specific responsibility or the goal. (e.g., "...and I was responsible for developing the new authentication service.")
-    *   **A - Action**: Detail the steps *you* took. Focus on your individual contribution. Use "I" instead of "we." (e.g., "I designed the API endpoints, wrote the integration tests, and...")
-    *   **R - Result**: Explain the outcome. Quantify it if possible. (e.g., "As a result, we reduced login errors by 15% and the feature shipped on time.")
+    *   **S - Situation**: Briefly set the scene and provide context. (e.g., "In my final year group project, our team was building a web application...")
+    *   **T - Task**: Describe your specific responsibility or the goal. (e.g., "...and I was responsible for implementing the user authentication system.")
+    *   **A - Action**: Detail the steps *you* took. Focus on your individual contribution. Use "I" instead of "we." (e.g., "I researched different authentication methods, chose JWT tokens, implemented the login/signup flow, and...")
+    *   **R - Result**: Explain the outcome. Quantify it if possible. (e.g., "As a result, our app successfully handled 100+ test users, we received the highest grade in our cohort, and I gained experience with React and Node.js.")
 2.  **Focus on "I", not "We"**: Interviewers need to know what *you* did. It's great that your team succeeded, but they are hiring you, not your team.
-3.  **Be Specific**: Avoid vague statements. Instead of "I worked on the backend," say "I implemented the caching layer using Redis to decrease database load."
+3.  **Be Specific**: Avoid vague statements. Instead of "I worked on the frontend," say "I built the user dashboard using React and integrated it with our REST API."
+
+### ✅ CV & Application Tips
+
+> **👉 Get your CV reviewed instantly with [Auralyze.ai's free CV checker](https://auralyze.ai)** – upload your CV and get specific feedback on formatting, content, and ATS optimization before you apply.
+
+1.  **Tailor Your CV**: For each application, update your CV to highlight the skills and experiences that match the job description. Use their keywords.
+2.  **Use the X-Y-Z Formula**: For your bullet points, use a structure like: "Accomplished [X] as measured by [Y], by doing [Z]." For example: "Improved website load time by 25% (Y) by optimizing image compression in my coursework project (Z), enhancing user experience (X)."
+3.  **Keep it to One Page**: Be ruthless. For most student and graduate roles, a single, concise page is all you need.
+4.  **Highlight Projects & Coursework**: As a student/new grad, your academic projects, hackathons, and personal coding projects are valuable experience. Treat them seriously.
+
+### 📈 Networking & Tracking
+1.  **Use LinkedIn**: Don't just have a profile, use it. Follow target companies, connect with their recruiters, and engage with posts from engineers who work there. A thoughtful comment can go a long way.
+2.  **Track Your Applications**: Don't rely on memory. Use a spreadsheet or a free Kanban board tool like Trello or Notion to track every application, its stage (Applied, Online Assessment, Interview, Offer), and dates. This helps you know when to follow up.
 
 ### 📚 Recommended Resources
 

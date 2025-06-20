@@ -116,7 +116,6 @@ The key to answering these is to have a few versatile stories about your univers
 | Deloitte | Technology Graduate Scheme | London, Birmingham | Oct 2025 (TBC) | [Careers](https://www2.deloitte.com/uk/en/pages/careers/articles/graduate-opportunities.html) |
 | Samsung | Computer Vision & ML Internship | Cambridge, Staines | Dec 2025 (TBC) | [Careers](https://www.samsung.com/uk/careers/graduates/) |
 | Arm | Software Engineering Internship | Cambridge, Manchester | Jan 2026 (TBC) | [Careers](https://careers.arm.com/students) |
-| BAE Systems | Digital & Tech Solutions Graduate Scheme | London, Preston | Feb 2026 (TBC) | [Careers](https://www.baesystems.com/en/careers/careers-in-the-uk/graduates) |
 
 ---
 

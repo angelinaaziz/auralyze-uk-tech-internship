@@ -109,7 +109,7 @@ The key to answering these is to have a few versatile stories about your univers
 | Google | Software Engineering Internship | London | Nov 2025 (TBC) | [Careers](https://careers.google.com/students/) |
 | Google | Google DeepMind Research Internship | London | Dec 2025 (TBC) | [Careers](https://deepmind.google/careers/) |
 | OpenAI | Global Affairs Summer Internship | London | Mar 2026 (TBC) | [Careers](https://openai.com/careers/) |
-| Accenture | Technology Internship 2026 | London, Manchester | Rolling | [Careers](https://www.accenture.com/gb-en/careers/graduates) |
+| Accenture | Technology Internship 2026 | London, Manchester | Rolling | [Apply](https://www.accenture.com/gb-en/careers/life-at-accenture/internships-students) |
 | Capgemini | Technology Consulting Internship | London, Manchester | Rolling | [Careers](https://www.capgemini.com/gb-en/careers/graduates/) |
 | Cisco | Software Engineer Graduate Programme | London, Reading | Rolling | [Careers](https://jobs.cisco.com/jobs/SearchJobs/graduate%20uk) |
 | FDM Group | Technical Graduate Programme | London, Leeds, Glasgow | Rolling | [Careers](https://www.fdmgroup.com/en-gb/careers/graduates/) |

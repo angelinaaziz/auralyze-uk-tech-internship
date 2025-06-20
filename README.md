@@ -1,6 +1,6 @@
 # UK Tech Internships – 2025/26
 
-A crowdsourced list of **software & data internships** in the United Kingdom that are **open right now** (updated 18 Jun 2025).
+A list of **software & data internships** in the United Kingdom that are **open right now** (updated 18 Jun 2025).
 
 > 🙋 First time here?  
 🚀  **Land more offers with [Auralyze.ai](https://auralyze.ai)** – record a mock interview and get feedback on structure, delivery **and** eye-contact in under 60 seconds.  

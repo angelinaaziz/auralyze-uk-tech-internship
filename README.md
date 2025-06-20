@@ -112,7 +112,6 @@ The key to answering these is to have a few versatile stories about your univers
 | Accenture | Technology Internship 2026 | London, Manchester | Rolling | [Careers](https://www.accenture.com/gb-en/careers/graduates) |
 | Capgemini | Technology Consulting Internship | London, Manchester | Rolling | [Careers](https://www.capgemini.com/gb-en/careers/graduates/) |
 | Cisco | Software Engineer Graduate Programme | London, Reading | Rolling | [Careers](https://jobs.cisco.com/jobs/SearchJobs/graduate%20uk) |
-| FDM Group | Technical Graduate Programme | London, Leeds, Glasgow | Rolling | [Careers](https://www.fdmgroup.com/en-gb/careers/graduates/) |
 | Deloitte | Technology Graduate Scheme | London, Birmingham | Oct 2025 (TBC) | [Careers](https://www2.deloitte.com/uk/en/pages/careers/articles/graduate-opportunities.html) |
 | Samsung | Computer Vision & ML Internship | Cambridge, Staines | Dec 2025 (TBC) | [Careers](https://www.samsung.com/uk/careers/graduates/) |
 | Arm | Software Engineering Internship | Cambridge, Manchester | Jan 2026 (TBC) | [Careers](https://careers.arm.com/students) |

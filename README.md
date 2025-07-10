@@ -28,7 +28,9 @@ A list of **software & data internships** in the United Kingdom that are **open 
 
 | Company | Programme | Location | Deadline | Apply |
 |---------|-----------|----------|----------|-------|
+| Bending Spoons | Software Engineer Intern | Milan, London, Remote | Rolling | [Apply](https://jobs.bendingspoons.com/positions/671201070d672a6fe45a0d7b?utm_medium=job_post&utm_source=linkedin&utm_campaign=686c43647e0e8fb251306b09) |
 | Cambridge Consultants | AI Internship (PhD or MSc Level) | Cambridge | Rolling | [Apply](https://boards.greenhouse.io/cambridgeconsultantslimited/jobs/4566595101) |
+| Robin AI | Software Engineering Internship | London | Rolling | [Apply](https://jobs.ashbyhq.com/robin/046815bc-73bc-40b0-963e-6f692444092f?utm_source=linkedinpaid) |
 | ESA | Spaceship ECSAT Team Internship | Harwell | 11th Jul 2025 | [Apply](https://jobs.esa.int/job/Harwell-Intern-in-the-Spaceship-ECSAT-team/1213414301/) |
 | Goldman Sachs | Summer Analyst Programme | London | Rolling | [Apply](https://www.goldmansachs.com/careers/students/programs-and-internships) |
 | HP | Computer Security Research Internship | Bristol | Rolling | [Apply](https://jobs.hp.com/jobdetails/16794696/computer-security-research-internship-bristol-2025-bristol/) |
@@ -100,6 +102,7 @@ The key to answering these is to have a few versatile stories about your univers
 
 | Company | Programme | Location | Deadline / Status | Apply |
 |---------|-----------|----------|-------------------|-------|
+| BlackRock | 2026 Placement Programme EMEA | London | Rolling | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/9615-2026-Placement-Programme-EMEA/en-GB) |
 | Meta | Software Engineering Internship | London | Nov 2025 (TBC) | [Careers](https://www.metacareers.com/careerprograms/students/) |
 | Meta | AI Residency Program | London | Dec 2025 (TBC) | [Careers](https://www.metacareers.com/careerprograms/students/) |
 | Apple | AIML Resident - Machine Learning Research | Cambridge | Dec 16, 2025 (TBC) | [Careers](https://jobs.apple.com/en-us/search?team=MLAI) |

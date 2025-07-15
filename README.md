@@ -14,7 +14,7 @@ A list of **software & data internships** in the United Kingdom that are **open 
 ---
 
 ## How to use this repo
-1. ⭐ Star / Watch to keep track of new roles – we merge PRs daily.
+1. ⭐ Star / Watch to keep track of new roles 
 2. Sort the table below by deadline.
 3. Click `Apply` links ASAP (many schemes close early when full!).
 4. Use [Auralyze.ai](https://auralyze.ai) to practise competency questions before assessment centres.
